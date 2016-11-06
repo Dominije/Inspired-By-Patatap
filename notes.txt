@@ -1,0 +1,11 @@
+Will use PaperJS and HowlerJS
+-https://cdnjs.cloudflare.com/ajax/libs/paper.js/0.10.2/paper-core.js
+
+Resources: http://paperjs.org/
+
+-https://cdnjs.cloudflare.com/ajax/libs/howler/2.0.0/howler.js
+
+HowlerJS Resources: https://howlerjs.com/
+
+Paper JS Intro
+
